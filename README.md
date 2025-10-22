@@ -1,0 +1,6 @@
+# SER316 Assignment 1
+
+## Task 2 Summary
+
+This branch adds documentation for the project including branch structure, features (max attempts, hints, remaining attempts), and workflow.
+
